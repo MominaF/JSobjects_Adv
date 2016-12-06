@@ -10,7 +10,7 @@ $("#adele").append(library.music.twenty_tens.Adele[0].song);
 //Task 4: (project) Create a site that can display songs from an artist specified by a user search.
 $("#things").val();
 $("#submit").click(function(){
-    var name=$("#things").val();
-console.log(hello);
+    var usertype=$("#things").val();
+console.log(usertype);
 });
 });
